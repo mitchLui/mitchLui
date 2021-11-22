@@ -1,10 +1,10 @@
-### Hello there!
+# Hello there!
 
 I am Mitch, a penultimate-year BSc Computer Science at the [University of Bristol][1], graduating in 2023. 
 
 My interests include learning new technologies, cooking and building custom mechanical keyboards.
 
-#### Contact Me
+## Contact Me
 
 - [Website][2]
 - [LinkedIn][3]
