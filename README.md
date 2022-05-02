@@ -4,6 +4,9 @@ I am Mitch, a penultimate-year BSc Computer Science at the [University of Bristo
 
 My interests include learning new technologies, cooking and building custom mechanical keyboards.
 
+
+[![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchlui&theme=dark&show_icons=true&count_private=true&icon_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact Me
 
 - [Website][2]
