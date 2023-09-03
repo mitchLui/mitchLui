@@ -1,9 +1,8 @@
 # Hello there!
 
-I am Mitch, a final year BSc Computer Science at the [University of Bristol][1], graduating in 2023. 
+I am Mitch, a Graduate Software Engineer at [Wise][1] in London, UK.
 
 My interests include learning new technologies, cooking and building custom mechanical keyboards.
-
 
 [![Mitch's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitchlui&theme=dark&show_icons=true&count_private=true&icon_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -11,13 +10,14 @@ My interests include learning new technologies, cooking and building custom mech
 
 ## Contact Me
 
-- [Website][2]
-- [LinkedIn][3]
-- [Email][4]
-- [Resume/CV][5]
+- [Website][3]
+- [LinkedIn][4]
+- [Email][5]
+- [Resume/CV][6]
 
-[1]:https://www.bristol.ac.uk
-[2]:https://mitchlui.dev
-[3]:https://www.linkedin.com/in/mitchlui/
-[4]:mailto:mitch@mitchLui.dev
-[5]:https://mitchlui.dev/cv.pdf
+[1]:https://wise.com
+[2]:https://www.bristol.ac.uk
+[3]:https://mitchlui.dev
+[4]:https://www.linkedin.com/in/mitchlui/
+[5]:mailto:mitch@mitchLui.dev
+[6]:https://mitchlui.dev/cv.pdf
