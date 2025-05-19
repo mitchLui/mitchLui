@@ -1,10 +1,8 @@
 # Hello there!
 
-I am Mitch, a Software Engineer at [Wise][1] in London, UK.
+Software Engineer at [Wise][1] based in London, UK.
 
-My interests include learning new technologies, cooking and building custom mechanical keyboards.
-
-## Contact Me
+## Links
 
 - [Website][3]
 - [LinkedIn][4]
